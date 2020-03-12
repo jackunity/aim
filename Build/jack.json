@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Trash Fruit Ninja",
+"dataUrl": "jack.data.unityweb",
+"wasmCodeUrl": "jack.wasm.code.unityweb",
+"wasmFrameworkUrl": "jack.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
